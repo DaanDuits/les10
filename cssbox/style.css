@@ -1,0 +1,17 @@
+body{
+    background-image: url(100x100.gif);
+}
+h1{
+    background-color:olive;
+}
+div{
+    background-color: yellow;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    height: 200px;
+    width: 400px;
+    padding: 20px;
+    border: firebrick 20px inset;
+}
+

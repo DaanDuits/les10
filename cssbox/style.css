@@ -1,5 +1,6 @@
 body{
-    background-image: url(100x100.gif);
+    background-image: url(rickroll.gif);
+    background-size: cover;
 }
 h1{
     background-color:olive;
